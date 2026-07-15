@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,xhs
+https://www.rtmpcdn.com/live/xiaohongshu1.m3u8
 #EXTINF:-1,Test
 http//82.156.243.185:33389/fwc.m3u
 #EXTINF:-1,HRT2
