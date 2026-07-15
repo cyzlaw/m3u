@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Test
+http//82.156.243.185:33389/fwc.m3u
 #EXTINF:-1,HRT2
 http://rb.gy/agc9ku
 #EXTINF:-1,HRT2-HQ
